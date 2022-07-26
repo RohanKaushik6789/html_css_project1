@@ -20,7 +20,7 @@ This is the very first project of my Fullstack Javascript Web development projec
 
 
 
-> [Deployed Link](./first_project.png)
+> [Deployed Link](https://master--rohankaushik.netlify.app/)
 
 
 
